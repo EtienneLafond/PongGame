@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7010a996-4256-4ba0-b3b8-b306a8fe06aa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ball.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/GameFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameFrame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GamePanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Paddle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Paddle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Score.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Score.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PongGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PongGame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670951002034</updated>
-      <workItem from="1670951004008" duration="1056000" />
+      <workItem from="1670951004008" duration="1404000" />
     </task>
     <servers />
   </component>
