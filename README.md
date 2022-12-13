@@ -8,6 +8,8 @@ Current Implementation:
 - Basic functionality of the Pong Game (moving paddles, moving the ball, keeping score...)
 
 Future Implementation:
+- Adding description for each method/class
+- Create test cases for each method
 - Main menu with option to choose the color of the ball/paddles, change the player's name...
 - Adding more balls after x time without a point
 - 
