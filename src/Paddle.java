@@ -23,7 +23,7 @@ public class Paddle extends Rectangle {
                     move();
                 }
                 if(e.getKeyCode() == KeyEvent.VK_S) {
-                    setYDirection(-speed);
+                    setYDirection(speed);
                     move();
                 }
                 break;
@@ -33,7 +33,7 @@ public class Paddle extends Rectangle {
                     move();
                 }
                 if(e.getKeyCode() == KeyEvent.VK_DOWN) {
-                    setYDirection(-speed);
+                    setYDirection(speed);
                     move();
                 }
                 break;
