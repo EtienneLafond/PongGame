@@ -1,8 +1,5 @@
 import java.awt.*;
-import java.awt.Event;
 import java.awt.event.KeyEvent;
-import java.util.*;
-import javax.swing.*;
 
 public class Paddle extends Rectangle {
 

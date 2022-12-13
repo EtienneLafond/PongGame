@@ -1,5 +1,4 @@
 import java.awt.*;
-import java.awt.Event;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 import java.util.*;
@@ -123,15 +122,11 @@ public class GamePanel extends JPanel implements Runnable {
             score.player2++;
             newPaddles();
             newBall();
-            System.out.println("Player 1: "+score.player1);
-            System.out.println("Player 2: "+score.player2);
         }
         if(ball.x >= GAME_WIDTH-BALL_DIAMETER) {
             score.player1++;
             newPaddles();
             newBall();
-            System.out.println("Player 1: "+score.player1);
-            System.out.println("Player 2: "+score.player2);
         }
 
     }
@@ -156,7 +151,6 @@ public class GamePanel extends JPanel implements Runnable {
             }
         }
     }
-
 
     public class AL extends KeyAdapter {
         public void keyPressed(KeyEvent e) {
